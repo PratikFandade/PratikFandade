@@ -21,6 +21,6 @@ I am a intern at [Colgate-Palmolive](https://www.colgatepalmolive.com/en-us) sol
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PratikFandade1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=PratikFandade1&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=PratikFandade&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=PratikFandade&theme=dark&hide_border=true" width = 400>
 </p>
