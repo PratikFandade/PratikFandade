@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://in.linkedin.com/in/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Pratik! 
-- 🔭 I am a Full Stack Developement intern at [Colgate-Palmolive](https://www.colgatepalmolive.com/en-us) solving problems using tech-stack like Django, React.js, GCP, and more.
+- 🔭 I am a Full Stack Developer, solving problems using tech-stack like Django, Node.js, React.js, GCP, and more.
 - 🌱 I'm interested in python🐍, C++, Javascript, Web Development 🕸, Machine Learning 🤖. 
 - 👯 I enjoy working with ReactJs🔵, NodeJs🟢, solving competitive code problems 🧮.
 - 📫 found me at  [**👩‍🍳 Codechef**](https://www.codechef.com/users/raijin_codes),  [**🕊 Twitter**](https://twitter.com/pratikfandade),  [**🔗 LinkedIn**](https://www.linkedin.com/in/pratikfandade/)
