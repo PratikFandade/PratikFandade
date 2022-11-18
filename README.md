@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I am a Full Stack Developer, solving problems using tech-stack like Django, Node.js, React.js, GCP, and more.
 - 🌱 I'm interested in python🐍, C++, Javascript, Web Development 🕸, Machine Learning 🤖. 
 - 👯 I enjoy working with ReactJs🔵, NodeJs🟢, solving competitive code problems 🧮.
-- 📫 found me at  [**👩‍🍳 Codechef**](https://www.codechef.com/users/raijin_codes),  [**🕊 Twitter**](https://twitter.com/pratikfandade),  [**🔗 LinkedIn**](https://www.linkedin.com/in/pratikfandade/)
+- 📫 find me at  [**👩‍🍳 Codechef**](https://www.codechef.com/users/raijin_codes),  [**🕊 Twitter**](https://twitter.com/pratikfandade),  [**🔗 LinkedIn**](https://www.linkedin.com/in/pratikfandade/)
 
 ---
 <p align = "center">
