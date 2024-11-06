@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I am a Full Stack Developer, solving problems using tech-stack like Django, Node.js, React.js, GCP, and I’m currently working on Rust applications and building CLIs using Rust.
 - 🌱 I'm interested in Rust⚙️, python🐍, C++, Javascript, Web Development 🕸, Machine Learning 🤖. 
 - 👯 I enjoy working with ReactJs🔵, NodeJs🟢, Django🔴, Ratatui🟣 solving competitive code problems 🧮.
-- 📫 find me at [**📩 Email##](mailto:pfandade@buffalo.edu) [**👩‍🍳 Codechef**](https://www.codechef.com/users/raijin_codes),  [**🕊 Twitter**](https://x.com/prkbuild),  [**🔗 LinkedIn**](https://www.linkedin.com/in/pratikfandade/)
+- 📫 find me at [**📩 Email**](mailto:pfandade@buffalo.edu) [**👩‍🍳 Codechef**](https://www.codechef.com/users/raijin_codes),  [**🕊 Twitter**](https://x.com/prkbuild),  [**🔗 LinkedIn**](https://www.linkedin.com/in/pratikfandade/)
 
 ---
 <p align = "center">
